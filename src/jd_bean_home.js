@@ -3,7 +3,7 @@
 脚本自带助力码，介意者可将 29行 helpAuthor 变量设置为 false
 活动入口：京东APP首页-领京豆
 更新地址：https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_bean_home.js
-已支持IOS双京东账号, Node.js支持N个京东账号
+已支持IOS双京东账号, Node.js支持N个京东账号2
 脚本兼容: QuantumultX, Surge, Loon, 小火箭，JSBox, Node.js
 ============Quantumultx===============
 [task_local]
